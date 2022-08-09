@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "961608276758",
+    "project_id": "new-login-b1a1b",
+    "storage_bucket": "new-login-b1a1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961608276758:android:5542eee3be6d4b5818ce37",
+        "android_client_info": {
+          "package_name": "com.balthazar.newlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961608276758-s9fthfbhi4bglun3ppgt6gjjb9f9m65a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2kUK6W8hDWhXp-bwYzyTTitNVmKcMKLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961608276758-s9fthfbhi4bglun3ppgt6gjjb9f9m65a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
